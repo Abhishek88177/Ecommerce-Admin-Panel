@@ -1,0 +1,22 @@
+/* src/components/Customers.css */
+.customers-section {
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .customers-section h1 {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  .input-group-text {
+    background-color: white;
+    border-right: 0;
+  }
+  
+  .form-control {
+    border-left: 0;
+  }
+  

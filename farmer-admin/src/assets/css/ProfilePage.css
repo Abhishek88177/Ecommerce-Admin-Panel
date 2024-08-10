@@ -1,0 +1,110 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .profile-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+  }
+  .profile-card{
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 30%;
+    height: 300px;
+  }
+
+   .form-card {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 60%;
+  }
+  
+  .profile-card-body, .form-card-body {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .profile-img {
+    border-radius: 50%;
+    margin-bottom: 15px;
+    width: 100px;
+    height: 100px;
+  }
+  
+  .profile-card-title {
+    font-size: 1.25em;
+    margin-bottom: 10px;
+  }
+  
+  .profile-card-text {
+    color: #777;
+    margin-bottom: 10px;
+  }
+  
+  .upload-btn {
+    background-color: #6c63ff;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    padding: 10px 20px;
+  }
+  
+  .form-card-header {
+    padding: 20px 20px 0 30px;
+    text-align: left;
+  }
+  
+  .form-card-header h5 {
+    margin-bottom: 5px;
+  }
+  
+  .form-card-header .text-muted {
+    color: #777;
+  }
+  
+  .form-card-body {
+    padding: 20px;
+  }
+  
+  .form-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+  }
+  
+  .form-col {
+    flex: 1;
+    margin-right: 10px;
+  }
+  
+  .form-col:last-child {
+    margin-right: 0;
+  }
+  
+  .form-label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-input, .form-select {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    width: 100%;
+  }
+  
+  .save-btn {
+    background-color: #6c63ff;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    padding: 10px 20px;
+  }
+  

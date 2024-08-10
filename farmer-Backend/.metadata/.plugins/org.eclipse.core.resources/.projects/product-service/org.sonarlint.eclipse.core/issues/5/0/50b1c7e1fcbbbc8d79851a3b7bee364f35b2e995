@@ -1,0 +1,29 @@
+
+d
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8—äıÕ„2HíRMINORZ
+CODE_SMELL
+l	java:S106–"9Replace this use of System.out or System.err by a logger.(öäğ±8´äèÙ2HèRMAJORZ
+CODE_SMELL
+y	java:S112º"FDefine and throw a dedicated exception instead of using a generic one.(í¹ğ8¦©ÏØ2HâRMAJORZ
+CODE_SMELL
+i
+java:S1135b"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ãÉßÛ2HãRINFOZ
+CODE_SMELL
+—
+java:S1488d"_Immediately return this expression instead of assigning it to the temporary variable "product".(é‚€„üÿÿÿÿ8Ûñü´€2HêRMINORZ
+CODE_SMELL
+q	java:S106¯"9Replace this use of System.out or System.err by a logger.(ÇóÏÃıÿÿÿÿ8¦©ÏØ2HéRMAJORZ
+CODE_SMELL
+—
+java:S1488n"_Immediately return this expression instead of assigning it to the temporary variable "product".(Å‹¼áùÿÿÿÿ8ãÉßÛ2HåRMINORZ
+CODE_SMELL
+q	java:S106¤"9Replace this use of System.out or System.err by a logger.(ô”û´şÿÿÿÿ8¦©ÏØ2HàRMAJORZ
+CODE_SMELL
+i
+java:S1135l"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8Ûñü´€2HäRINFOZ
+CODE_SMELL
+q	java:S106¹"9Replace this use of System.out or System.err by a logger.(ô¹Èİıÿÿÿÿ8¦©ÏØ2HáRMAJORZ
+CODE_SMELL
+ƒ
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.CrossOrigin'.(º´Ñ†8ÿúî„2H•RMINORZ
+CODE_SMELL

@@ -1,0 +1,29 @@
+/* src/App.css */
+.App {
+    display: flex;
+}
+
+.content {
+    margin-left: 250px;
+    margin-top: 60px;
+    padding: 20px;
+    width: calc(100% - 250px);
+    transition: margin-left 0.3s ease, width 0.3s ease;
+}
+
+.collapsed .content {
+    margin-left: 60px;
+    width: calc(100% - 60px);
+}
+
+@media (max-width: 768px) {
+    .content {
+        margin-left: 60px;
+        width: calc(100% - 60px);
+    }
+
+    .collapsed .content {
+        margin-left: 0;
+        width: 100%;
+    }
+}

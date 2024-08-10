@@ -1,0 +1,22 @@
+
+p	java:S106P"9Replace this use of System.out or System.err by a logger.(ÛÛ§¿úÿÿÿÿ8¶§Ú2HÖRMAJORZ
+CODE_SMELL
+i
+java:S11351"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8„ş€2Hç	RINFOZ
+CODE_SMELL
+y
+java:S1128	"ARemove this unused import 'org.springframework.data.domain.Sort'.(ëÿ€ëøÿÿÿÿ8´àÔİ2H
+RMINORZ
+CODE_SMELL
+i
+java:S11358"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8„ş€2H RINFOZ
+CODE_SMELL
+
+java:S36553"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(„èœ†ıÿÿÿÿ8ˆº¬°€2HÂRMAJORZBUG
+p	java:S106M"9Replace this use of System.out or System.err by a logger.(è¨¿–şÿÿÿÿ8şÆ¥Û2HRMAJORZ
+CODE_SMELL
+
+java:S3655?"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(œò½œúÿÿÿÿ8Û¤ñ°2HªRMAJORZBUG
+^
+java:S1168h"+Return an empty collection instead of null.(¥¹ï8Ó»ìÜ2HÊ	RMAJORZ
+CODE_SMELL

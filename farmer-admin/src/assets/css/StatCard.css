@@ -1,0 +1,43 @@
+
+.stat-card {
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0 , 0.1);
+    overflow: hidden;
+    margin-top: 30px;
+}
+
+.card-title{
+    font-size: 1rem;
+    color: #667085;
+}
+
+.card-value {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.card-change {
+    font-size: 0.9rem;
+}
+
+.icon-bg {
+    border-radius: 50%;
+    color: white;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg-purple {
+    background-color: #635bff;
+}
+
+.bg-green {
+    background-color: #15b79f;
+}
+
+.bg-orange {
+    background-color: #fd7e14;
+}

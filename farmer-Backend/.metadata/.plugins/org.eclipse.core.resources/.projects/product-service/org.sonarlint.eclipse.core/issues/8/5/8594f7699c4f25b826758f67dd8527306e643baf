@@ -1,0 +1,7 @@
+
+“
+java:S1128"[Remove this unused import 'org.springframework.web.servlet.config.annotation.EnableWebMvc'.(Â°Ä¡úÿÿÿÿ8ˆéò€2H‡RMINORZ
+CODE_SMELL
+
+java:S1128"]Remove this unused import 'org.springframework.cloud.client.discovery.EnableDiscoveryClient'.(¬Ç­D8ÿÁô€2HŒRMINORZ
+CODE_SMELL

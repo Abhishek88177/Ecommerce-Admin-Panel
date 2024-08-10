@@ -1,0 +1,17 @@
+/* src/components/LatestProducts.css */
+.latest-products {
+    border-radius: 10px;
+  }
+  
+  .list-group-item {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+  }
+  
+  .img-thumbnail {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+  }
+  

@@ -1,0 +1,32 @@
+/* src/components/CustomersTable.css */
+.table-responsive {
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .table img {
+    object-fit: cover;
+  }
+  
+  .custom-checkbox input {
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    transform: scale(1.5); /* Adjust the scale as needed */
+  }
+  
+  .delete-icon{
+    text-decoration: none;
+    color: red;
+    font-size: 20px;
+    cursor: pointer;
+  }
+
+  .edit-icon{
+    text-decoration: none;
+    color: blue;
+    font-size: 20px;
+    cursor: pointer;
+  }

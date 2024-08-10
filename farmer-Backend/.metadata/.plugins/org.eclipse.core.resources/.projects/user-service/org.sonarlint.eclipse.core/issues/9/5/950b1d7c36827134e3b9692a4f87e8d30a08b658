@@ -1,0 +1,17 @@
+
+
+java:S36553"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(şúš®úÿÿÿÿ8—¦ç˜…2H­RMAJORZBUG
+
+java:S3655-"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(µÛšúÿÿÿÿÿ8ÇÈœ‡€2H©RMAJORZBUG
+w
+java:S1854"?Remove this useless assignment to local variable "listAddress".(‰£ôƒûÿÿÿÿ8ô¤Â‰€2HªRMAJORZ
+CODE_SMELL
+h
+java:S1481"0Remove this unused "listAddress" local variable.(‰£ôƒûÿÿÿÿ8ô¤Â‰€2H«RMINORZ
+CODE_SMELL
+i
+java:S1135D"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8—¦ç˜…2H®RINFOZ
+CODE_SMELL
+
+java:S1488K"\Immediately return this expression instead of assigning it to the temporary variable "user".(¯˜Š8ëùê˜…2H´RMINORZ
+CODE_SMELL

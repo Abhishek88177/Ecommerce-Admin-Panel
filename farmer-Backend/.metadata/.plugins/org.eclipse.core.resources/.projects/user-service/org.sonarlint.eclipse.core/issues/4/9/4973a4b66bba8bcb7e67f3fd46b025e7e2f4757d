@@ -1,0 +1,11 @@
+
+r
+java:S1128":Remove this unused import 'jakarta.persistence.FetchType'.(ŠÂ¤Šûÿÿÿÿ8ÂËŠ€2HÆRMINORZ
+CODE_SMELL
+n
+java:S1128	";Remove this unused import 'jakarta.persistence.JoinColumn'.(İçÆ•8ÂËŠ€2HÈRMINORZ
+CODE_SMELL
+r
+java:S1128
+":Remove this unused import 'jakarta.persistence.ManyToOne'.(áîÖãùÿÿÿÿ8ÂËŠ€2HÊRMINORZ
+CODE_SMELL

@@ -1,0 +1,17 @@
+/* src/components/LatestOrders.css */
+a{
+  cursor: pointer;
+}
+
+.latest-orders {
+    border-radius: 10px;
+  }
+  
+  .table {
+    margin-bottom: 0;
+  }
+  
+  .table-hover tbody tr:hover {
+    background-color: #f8f9fa;
+  }
+  

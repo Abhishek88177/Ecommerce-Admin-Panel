@@ -1,0 +1,15 @@
+.latest-category {
+    border-radius: 10px;
+    height: 400px;
+  }
+  
+.table {
+    margin-bottom: 0;
+  }
+  
+.table-hover tbody tr:hover {
+    background-color: #f8f9fa;
+  }
+  
+  
+
